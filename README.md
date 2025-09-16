@@ -10,4 +10,4 @@ This repo has DSA question solutions from different platforms. I'm creating such
 * Week 7 : Graphs
 * Week 8 : DP
 
-* The order may change as many topics are interlinked. I'd try to maintain a record of my progress and where i stuck in questions.
+> The order may change as many topics are interlinked. I'd try to maintain a record of my progress and where i stuck in questions.
